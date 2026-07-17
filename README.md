@@ -1,2 +1,19 @@
 # Calculator
-A modern and responsive calculator application built with HTML, CSS, and JavaScript. It performs real-time arithmetic operations with a clean interface, accurate calculations, and a smooth user experience.
+
+A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations with real-time calculations through a clean, intuitive, and user-friendly interface.
+
+### Features
+
+* ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+* ⚡ Instant calculation results
+* 📱 Responsive design for different screen sizes
+* 🎨 Clean and modern UI
+* 🚀 Lightweight and easy to use
+
+### Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+
